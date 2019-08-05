@@ -28,4 +28,4 @@
  
 ### SCREENSHOT
 
-<img src="screenshot.png" width="90%"></img>
+<img src="screenshot.jpg" width="90%"></img>
